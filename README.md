@@ -5,6 +5,9 @@ Hi 👋, I'm Saksham Singh
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Every+Day" />
 </p>---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 👨‍💻 About Me
 
@@ -97,11 +100,19 @@ AI Engineering 🎯
 
 🌐 Connect With Me
 
-- LinkedIn:www.linkedin.com/in/saksham-singh-7b0626387
-- GitHub: https://github.com/saksham.singhh771
-- Email: saksham.singhh771@gmail.com
+<p align="center">
+<a href="www.linkedin.com/in/saksham-singh-7b0626387">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
----
+<a href="https://github.com/sakshamsingh771">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto: saksham.singhh771@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 💭 Developer Mindset
 
