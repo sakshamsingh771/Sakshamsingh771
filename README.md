@@ -8,6 +8,12 @@ Hi 👋, I'm Saksham Singh
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl3bnQ4eXN1Z3J6Mm5wdTB1d3Y5cXVxYzF5aDFxbGFwZGQ0dWQ5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Saksham+Singh;Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer;Building+the+Future+with+Code" />
+</p>
 
 👨‍💻 About Me
 
@@ -22,12 +28,11 @@ Hi 👋, I'm Saksham Singh
 
 🛠️ Tech Stack
 
-Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,git,github,vscode,tensorflow,pytorch" />
+</p>
 
-"Python" (https://img.shields.io/badge/Python-Expert-blue?logo=python)
-"JavaScript" (https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript)
-"HTML" (https://img.shields.io/badge/HTML5-Advanced-orange?logo=html5)
-"CSS" (https://img.shields.io/badge/CSS3-Advanced-blue?logo=css3)
+
 
 Libraries & Frameworks
 
@@ -92,11 +97,12 @@ AI Engineering 🎯
 
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=true)
 
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/sakshamsingh771/sakshamsingh771/output/github-contribution-grid-snake.svg">
+</p>
 
 🌐 Connect With Me
 
