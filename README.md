@@ -127,9 +127,14 @@ https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=t
 💭 Developer Mindset
 
 «"Every expert was once a beginner. Every project is a step toward mastery."»
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+🚀;Keep+Learning+Keep+Growing+🌱" />
+</p>
 
-⭐ Thanks for visiting my profile!
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364&animation=twinkling"/>
+</p>
+
 
 <!--
 **sakshamsingh771/Sakshamsingh771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
