@@ -17,8 +17,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Backend+Development;Never+Stop+Learning" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Saksham+Singh;Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer;Building+the+Future+with+Code" />
-</p>
+
 
 👨‍💻 About Me
 
@@ -102,7 +101,7 @@ AI Engineering 🎯
 
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=true
 
 ---
 <p align="center">
