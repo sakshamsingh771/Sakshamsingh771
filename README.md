@@ -27,6 +27,9 @@
 - 💡 Love solving real-world problems with code
 - 🚀 Goal: Become a skilled AI Engineer and Software Developer
 - ⚡ Fun Fact: I enjoy turning ideas into projects and projects into learning opportunities
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b7f-4e7c-8e2c-8f6c01f0f0a.gif" width="100%">
+</p>
 
 ---
 
@@ -101,7 +104,9 @@ AI Engineering 🎯
 
 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=true
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamsingh771&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 <p align="center">
