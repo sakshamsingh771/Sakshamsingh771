@@ -1,4 +1,10 @@
-Hi 👋, I'm Saksham Singh
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=SAKSHAM%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;🤖+Aspiring+AI+Engineer;📊+Data+Science+Intern;💻+Full+Stack+Developer+in+Progress;🚀+Building+Projects+and+Learning+Daily" />
+</p>
 
 🚀 Aspiring AI Engineer | Data Science Enthusiast | Full Stack Developer
 
@@ -127,7 +133,7 @@ AI Engineering 🎯
 «"Every expert was once a beginner. Every project is a step toward mastery."»
 
 ⭐ Thanks for visiting my profile!
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 <!--
 **sakshamsingh771/Sakshamsingh771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
