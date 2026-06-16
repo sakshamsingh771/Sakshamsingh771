@@ -8,8 +8,16 @@ Hi 👋, I'm Saksham Singh
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
+<h1 align="center">
+⚡ SAKSHAM SINGH ⚡
+</h1>
+
+<h3 align="center">
+🚀 AI Engineer in Progress | Data Scientist | Full Stack Developer
+</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl3bnQ4eXN1Z3J6Mm5wdTB1d3Y5cXVxYzF5aDFxbGFwZGQ0dWQ5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Backend+Development;Never+Stop+Learning" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Saksham+Singh;Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer;Building+the+Future+with+Code" />
