@@ -5,16 +5,10 @@ Hi 👋, I'm Saksham Singh
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Every+Day" />
 </p>---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
-<h1 align="center">
-⚡ SAKSHAM SINGH ⚡
-</h1>
 
-<h3 align="center">
-🚀 AI Engineer in Progress | Data Scientist | Full Stack Developer
-</h3>
+<p align="center">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600">
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Backend+Development;Never+Stop+Learning" />
