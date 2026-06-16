@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;🤖+Aspiring+AI+Engineer;📊+Data+Science+Intern;💻+Full+Stack+Developer+in+Progress;🚀+Building+Projects+and+Learning+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;🤖+Aspiring+AI+Engineer;📊+Data+Science+Intern;💻+Full+Stack+Developer+in+Progress;🚀+Building+Projects+and+Learning+Daily" />
 </p>
 
 🚀 Aspiring AI Engineer | Data Science Enthusiast | Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Data+Science+Intern;Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Every+Day" />
-</p>---
 
 <p align="center">
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600">
